@@ -1,0 +1,23 @@
+.Navbar {
+  width: 100%;
+  height: 6vh;
+  background-color: aqua;
+  display: flex;
+}
+
+.ML-Item {
+  width: 100%;
+  /* background-color: yellow; */
+}
+
+.Item {
+  width: 100%;
+}
+
+.ML-Item:hover {
+  background-color: red;
+}
+
+.grey-background {
+  background-color: grey;
+}
